@@ -22,7 +22,6 @@ A shopper logs into the app. The web app does not recognize their address so the
 **Dependencies**
 
     $ npm install && npm install -g truffle ganache-cli
-    $ truffle install
     $ truffle compile
 
 **Running**
